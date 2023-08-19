@@ -1,0 +1,8 @@
+numpy
+accelerate
+transformers
+tqdm
+torch
+dataclasses
+scikit-learn
+tree_sitter
